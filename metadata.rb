@@ -7,3 +7,4 @@ long_description 'Installs/Configures monitoring-icinga'
 version          '0.0.0'
 
 depends 'icinga2'
+depends 'mysql'
